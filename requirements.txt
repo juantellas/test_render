@@ -39,7 +39,7 @@ fonttools==4.60.0
 frozendict @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/frozendict_1729090952168/work
 gitdb==4.0.12
 GitPython==3.1.45
-gunicorn
+gunicorn==23.0.0
 idna @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/idna_1729038997316/work
 imageio==2.37.0
 importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/bld/rattler-build_importlib-metadata_1747934053/work
@@ -131,3 +131,4 @@ wheel==0.45.1
 win_inet_pton @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/win_inet_pton_1729038644686/work
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1749421620841/work
 zstandard @ file:///C:/b/abs_31t8xmrv_h/croot/zstandard_1731356578015/work
+
